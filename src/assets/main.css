@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Tulpen One';
+  src: url('fonts/tulpen-one_[allfont.ru].ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+*{
+  font-family: 'Tulpen One', arial,serif;
+}
+html, body, #app{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+body{
+  max-width: 1024px;
+  margin: 0 auto;
+}
