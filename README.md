@@ -1,5 +1,5 @@
 # Секундомер ⏱
-![dfg](docs/banner.png)
+![banner](docs/banner.png)
 
 >Самый стильный секундомер
 
